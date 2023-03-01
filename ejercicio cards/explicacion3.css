@@ -1,0 +1,17 @@
+
+#cosa{
+    background-image: url(./imagenes-ejercicio-Cards/bg-pattern-quotation.svg) !important;
+    background-position-x: 80%    ;
+    background-size: 120px;
+    background-repeat: no-repeat;
+    
+}
+#tablita1{
+    background-color: #733FC8 !important;
+}
+#tablita2{
+    background-color: #49556B !important;
+}
+#tablita4{
+    background-color: #19212E !important;
+}
